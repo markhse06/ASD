@@ -123,11 +123,11 @@ public:
 
 ## Результаты экспериментов и визуализация
 ![Сравнения почти отсортированный массив](графики/comps_AlmostSorted.png) 
-![Cравнения рандомизированного массива](графики\comps_Random.png) 
-![Сравнения обратно отсортированного массива](графики\comps_Reversed.png)
-![Время сортировки почти отсортированного массива](графики\time_AlmostSorted.png) 
-![Время сортировки рандомизированного массива](графики\time_Random.png) 
-![Время сортировики обратно отсортированного массива](графики\time_Reversed.png)
+![Cравнения рандомизированного массива](графики/comps_Random.png) 
+![Сравнения обратно отсортированного массива](графики/comps_Reversed.png)
+![Время сортировки почти отсортированного массива](графики/time_AlmostSorted.png) 
+![Время сортировки рандомизированного массива](графики/time_Random.png) 
+![Время сортировики обратно отсортированного массива](графики/time_Reversed.png)
 
 
 
@@ -156,4 +156,4 @@ ID успешных посылок в тестирующей системе Code
 - A1r (MSB RADIX SORT): [375977572](https://dsahse25.contest.codeforces.com/group/SLdI1pWUpC/contest/691754/submission/375977572)
 - A1rq (MSB RADIX+QUICK SORT): [375978379](https://dsahse25.contest.codeforces.com/group/SLdI1pWUpC/contest/691754/submission/375978379)
 
-Ссылка на публичный репозиторий с исходными данными замеров:GitHub Repository: https://github.com/user/hse-algorithms-string-sorts
+Ссылка на публичный репозиторий с исходными данными замеров:GitHub Repository: [тык](https://github.com/markhse06/ASD/edit/main/SETs/SET9/)
