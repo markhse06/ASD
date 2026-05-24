@@ -156,4 +156,4 @@ ID успешных посылок в тестирующей системе Code
 - A1r (MSB RADIX SORT): [375977572](https://dsahse25.contest.codeforces.com/group/SLdI1pWUpC/contest/691754/submission/375977572)
 - A1rq (MSB RADIX+QUICK SORT): [375978379](https://dsahse25.contest.codeforces.com/group/SLdI1pWUpC/contest/691754/submission/375978379)
 
-Ссылка на публичный репозиторий с исходными данными замеров:GitHub Repository: [тык](https://github.com/markhse06/ASD/edit/main/SETs/SET9/)
+Ссылка на публичный репозиторий с исходными данными замеров:GitHub Repository: [тык](https://github.com/markhse06/ASD/edit/main/SETs/SET9)
